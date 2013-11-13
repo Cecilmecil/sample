@@ -1,1 +1,13 @@
 Anyone can add to this...let's work together to figure this tool out!
+
+
+[susan 11-13-2013]
+Li – I think the path to getting our source from your machine into GPGenie will be this:
+1.	In GitHib, get the repository synced to local – this puts the empty DevSource directory on your machine
+2.	In Explorer, Put your source project and files into that empty directory
+3.	In GitHib, click this next to the repository:   and you will see your stuff in the program (?)
+4.	Use the ‘uncommitted changes’ window add a Commit Message to enable the ‘commit to master’ check button
+5.	Click the Sync button   in the upper right corner
+6.	Use the ‘Open Repository in Explorer link to go back to your local development…
+Easy, right??
+
